@@ -1,9 +1,13 @@
-<h1 align="center"> REACT NATIVE (BEGGINER) - SLIDER </h1>
+<h1 align="center"> REACT NATIVE (BEGGINER) - SLIDER </h1> 
 
 #Índice
+- [Demo](#-demo)
 - [About](#-about)
 - [Technologies used](#-tecnologias-utilizadas)
 - [How to use](#-how-to-use)
+
+## Demo
+https://snack.expo.io/@tayse_rosa/slider-rn
 
 ## ➡️ About
 <b>Portugues:</b>
