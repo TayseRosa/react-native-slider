@@ -7,10 +7,17 @@
 - [How to use](#-how-to-use)
 
 ## Demo
-```js
-<div data-snack-id="@tayse_rosa/slider-rn" data-snack-platform="android" data-snack-preview="true" data-snack-theme="dark" style="overflow:hidden;background:#212121;border:1px solid var(--color-border);border-radius:4px;height:505px;width:100%"></div>
-<script async src="https://snack.expo.io/embed.js"></script>
-```
+<div data-snack-id="@tayse_rosa/switch---react-native" data-snack-platform="android" data-snack-preview="true" data-snack-theme="dark" style="overflow:hidden;background:#212121;border:1px solid var(--color-border);border-radius:4px;height:505px;width:100%">
+
+[![slider.png](https://i.postimg.cc/Jn0QkJs6/slider.png)](https://snack.expo.io/@tayse_rosa/64a1e1)
+
+</div>
+<script async src="https://snack.expo.io/embed.js"> </script>
+
+---
+
+
+[![slider.png](https://i.postimg.cc/Jn0QkJs6/slider.png)](https://postimg.cc/8J8W87BM)
 
 ## ➡️ About 
 <b>Portugues:</b>
