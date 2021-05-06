@@ -7,9 +7,10 @@
 - [How to use](#-how-to-use)
 
 ## Demo
-https://snack.expo.io/@tayse_rosa/slider-rn
+<div data-snack-id="@tayse_rosa/slider-rn" data-snack-platform="android" data-snack-preview="true" data-snack-theme="dark" style="overflow:hidden;background:#212121;border:1px solid var(--color-border);border-radius:4px;height:505px;width:100%"></div>
+<script async src="https://snack.expo.io/embed.js"></script>
 
-## ➡️ About
+## ➡️ About 
 <b>Portugues:</b>
 O projeto foi desenvolvido com a intenção de ser uma **base de conhecimento** para consultas de iniciantes na área de **React Native**, tanto para minhas futuras consultas rápidas, como para outros desenvolvedores React Native que por ventura esqueceram como se faz alguma funcionalidade.
 
