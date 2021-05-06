@@ -3,7 +3,7 @@
 #Índice
 - [Demo](#-demo)
 - [About](#-about)
-- [Technologies used](#-tecnologias-utilizadas)
+- [Technologies used](#-tecnologias-utilizadas) 
 - [How to use](#-how-to-use)
 
 ## Demo
